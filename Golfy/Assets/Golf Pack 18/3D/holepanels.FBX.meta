@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 01beb566b80b82141865cc0f0892173c
+timeCreated: 1463555650
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: holepanel_001
+    100004: holepanel_002
+    100006: holepanel_003
+    100008: holepanel_004
+    100010: holepanel_005
+    100012: holepanel_006
+    100014: holepanel_007
+    100016: holepanel_008
+    100018: holepanel_009
+    100020: holepanel_010
+    100022: holepanel_011
+    100024: holepanel_012
+    100026: holepanel_013
+    100028: holepanel_014
+    100030: holepanel_015
+    100032: holepanel_016
+    100034: holepanel_017
+    100036: holepanel_018
+    400000: //RootNode
+    400002: holepanel_001
+    400004: holepanel_002
+    400006: holepanel_003
+    400008: holepanel_004
+    400010: holepanel_005
+    400012: holepanel_006
+    400014: holepanel_007
+    400016: holepanel_008
+    400018: holepanel_009
+    400020: holepanel_010
+    400022: holepanel_011
+    400024: holepanel_012
+    400026: holepanel_013
+    400028: holepanel_014
+    400030: holepanel_015
+    400032: holepanel_016
+    400034: holepanel_017
+    400036: holepanel_018
+    2300000: //RootNode
+    2300002: holepanel_001
+    2300004: holepanel_002
+    2300006: holepanel_003
+    2300008: holepanel_004
+    2300010: holepanel_005
+    2300012: holepanel_006
+    2300014: holepanel_007
+    2300016: holepanel_008
+    2300018: holepanel_009
+    2300020: holepanel_010
+    2300022: holepanel_011
+    2300024: holepanel_012
+    2300026: holepanel_013
+    2300028: holepanel_014
+    2300030: holepanel_015
+    2300032: holepanel_016
+    2300034: holepanel_017
+    2300036: holepanel_018
+    3300000: //RootNode
+    3300002: holepanel_001
+    3300004: holepanel_002
+    3300006: holepanel_003
+    3300008: holepanel_004
+    3300010: holepanel_005
+    3300012: holepanel_006
+    3300014: holepanel_007
+    3300016: holepanel_008
+    3300018: holepanel_009
+    3300020: holepanel_010
+    3300022: holepanel_011
+    3300024: holepanel_012
+    3300026: holepanel_013
+    3300028: holepanel_014
+    3300030: holepanel_015
+    3300032: holepanel_016
+    3300034: holepanel_017
+    3300036: holepanel_018
+    4300000: holepanel_1
+    4300002: holepanel_001
+    4300004: holepanel_002
+    4300006: holepanel_003
+    4300008: holepanel_004
+    4300010: holepanel_005
+    4300012: holepanel_006
+    4300014: holepanel_007
+    4300016: holepanel_008
+    4300018: holepanel_009
+    4300020: holepanel_010
+    4300022: holepanel_011
+    4300024: holepanel_012
+    4300026: holepanel_013
+    4300028: holepanel_014
+    4300030: holepanel_015
+    4300032: holepanel_016
+    4300034: holepanel_017
+    4300036: holepanel_018
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
